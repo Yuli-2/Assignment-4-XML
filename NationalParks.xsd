@@ -17,7 +17,7 @@
 <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 <xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
 <xsd:element name="Address" type="AddressDetails" minOccurs="1" maxOccurs="1"/>
-<xsd:element name="Rating" type="xsd:decimal" minOccurs="0" maxOccurs="1"/>
+<xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
 
 </xsd:sequence>
 </xsd:complexType>
