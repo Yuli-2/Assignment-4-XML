@@ -125,6 +125,24 @@
 
 
 
+  
+<NationalPark Rating="4.9">
+<Name>Yellowstone</Name>
+<Phone>307-344-7381</Phone>
+<Phone>800-305-7288</Phone>
+<Address NearestAirport="Bozeman">
+<Number>P.O. Box</Number>
+<Street>Highway 89</Street>
+<City>Yellowstone National Park</City>
+<State>WY</State>
+<Zip>82190</Zip>
+</Address>
+</NationalPark>
+
+
+  
+
+
 </NationalPark>
 <NationalPark Rating="4.9">
 <Name>Yellowstone</Name>
